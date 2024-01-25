@@ -1,5 +1,6 @@
 # C0caine
-break your phone by escaping a jailbraek
+break your phone by escaping a jailbraek 
+(Still in Development)
 ---------------------------------------------
 Compabitle devices PhoneOS 1.0-iOS 19.2
 ---------------------------------------------
