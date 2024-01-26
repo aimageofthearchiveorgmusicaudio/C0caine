@@ -35,14 +35,17 @@ Cheers:
 
 
 
-1. Real picture of the jailbreak on iOS 1.0
+Real picture of the jailbreak on iOS 1.0[^1]
    
 ![image](https://github.com/XTMYTYT/C0caine/assets/86971741/1507b419-a186-44a1-a037-e57cc63beedf)
 
 
-2. Sileo icon on the back of the Iphone 19 Ultra Pro Max.
+Sileo icon on the back of the Iphone 19 Ultra Pro Max.[^2]
+
+
    
 ![image](https://github.com/XTMYTYT/C0caine/assets/86971741/ad554eb1-84fc-41b9-826b-f7268687cc02)
 
 
-
+[^1]: picture-1.
+[^2]: picture-2.
