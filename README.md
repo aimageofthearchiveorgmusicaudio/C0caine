@@ -32,10 +32,12 @@ Cheers:
 
 @Matei :+1: Works really well. Thanks!
 
-[^1]: Pictures
 
+
+1. Real picture of the jailbreak on iOS 1.0
 ![image](https://github.com/XTMYTYT/C0caine/assets/86971741/1507b419-a186-44a1-a037-e57cc63beedf)
 
+2. Sileo icon on the back of the Iphone 19 Ultra Pro Max.
 ![image](https://github.com/XTMYTYT/C0caine/assets/86971741/ad554eb1-84fc-41b9-826b-f7268687cc02)
 
 
