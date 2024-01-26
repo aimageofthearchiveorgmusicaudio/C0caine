@@ -6,7 +6,7 @@ Compabitle Versions PhoneOS 1.0-iOS 19.2
 Compabitle Devices     (Any device)
 ---------------------------------------------
 Works on any device. (Tested on iphone 1st Generation, IOS 1.0)
-- [] Breaks your phone
+- [ ] Breaks your phone
 - [x] Is valid jailbreak
 - [x] Will DDOS you.
 - [x] Include the sileo icon on the back of the IPhone 19 Ultra Pro Max.
