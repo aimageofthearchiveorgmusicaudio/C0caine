@@ -13,6 +13,13 @@ Works on any device. (Tested on iphone 1st Generation, IOS 1.0)
 - [x] Guaranteed to work!
 - [x] Trusted by thousands of people.
 
+
+> [!NOTE]
+> If this doesn't work, please contact us so we can fix your issues. We will totally fix all the issues you get with this! We are professionals.
+
+> [!WARNING]
+> Not compatible on IOS 0.1. Will break your phone
+
 Jeers:
 
 @idiot49 :-1: The fuck is this shit it just broke my phone bro
