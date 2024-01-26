@@ -17,7 +17,7 @@ Jeers:
 
 @idiot49 :-1: The fuck is this shit it just broke my phone bro
 
-@Cocainejerker :-1: bro what my phone wont open
+@Cocainejerker :-1: the fuck my phone wont open
 
 Cheers:
 
