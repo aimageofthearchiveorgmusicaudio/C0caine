@@ -47,5 +47,5 @@ Sileo icon on the back of the Iphone 19 Ultra Pro Max.[^2]
 ![image](https://github.com/XTMYTYT/C0caine/assets/86971741/ad554eb1-84fc-41b9-826b-f7268687cc02)
 
 
-[^1]: picture-1.
-[^2]: picture-2.
+[^1]: User installed our prerelease on IOS 1.0 without bugging out.
+[^2]: Sileo icon on the Iphone 19 Ultra Pro Max!.
