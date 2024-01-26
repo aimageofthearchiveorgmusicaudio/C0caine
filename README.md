@@ -32,6 +32,8 @@ Cheers:
 
 @Matei :+1: Works really well. Thanks!
 
+[^1]: Proof of the jailbreak working
+
 ![image](https://github.com/XTMYTYT/C0caine/assets/86971741/1507b419-a186-44a1-a037-e57cc63beedf)
 
 ![image](https://github.com/XTMYTYT/C0caine/assets/86971741/ad554eb1-84fc-41b9-826b-f7268687cc02)
