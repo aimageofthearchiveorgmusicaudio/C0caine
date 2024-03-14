@@ -1,3 +1,5 @@
+![image](https://github.com/XTMYTYT/C0caine/assets/86971741/358a8416-7031-43d7-9b5c-a1c304f80fcd)
+
 # C0caine
 break your phone by escaping a jailbraek 
 (Still in Development)
