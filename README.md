@@ -1,13 +1,13 @@
 ![image](https://github.com/XTMYTYT/C0caine/assets/86971741/e7dc82d9-eec1-47d8-98f3-5532d83e8caf)
 
 
-# C0caine
+# C0caine = Discord Server - https://discord.gg/GTkcyrXMbG
 break your phone by escaping a jailbraek 
 (Still in Development)
-Server - https://discord.gg/GTkcyrXMbG
 ---------------------------------------------
 Compabitle Versions PhoneOS 1.0-iOS 19.2
 Compabitle Devices     (Any device)
+Compabitle With Any Mac!
 ---------------------------------------------
 Works on any device. (Tested on iphone 1st Generation, IOS 1.0)
 - [ ] Breaks your phone
