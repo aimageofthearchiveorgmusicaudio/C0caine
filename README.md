@@ -4,6 +4,7 @@
 # C0caine
 break your phone by escaping a jailbraek 
 (Still in Development)
+Server - https://discord.gg/GTkcyrXMbG
 ---------------------------------------------
 Compabitle Versions PhoneOS 1.0-iOS 19.2
 Compabitle Devices     (Any device)
